@@ -87,33 +87,33 @@ header-includes:
 1. В виртуальной машине создали Fedora
 ![im1](image/im1.png){#fig:001 width=70%}
 2. Настройки ОС.
-![im2](image/im2.png){#fig:001 width=70%}
+![im2](image/im2.png){#fig:002 width=70%}
 3. Подключение образа ОС.
-![im3](image/im3.png){#fig:001 width=70%}
+![im3](image/im3.png){#fig:003 width=70%}
 4. Запуск ОС.
-![im4](image/im4.png){#fig:001 width=70%}
+![im4](image/im4.png){#fig:004 width=70%}
 5. Настройка Fedora. Выбор языка.
-![im5](image/im5.png){#fig:001 width=70%}
+![im5](image/im5.png){#fig:005 width=70%}
 6. Загрузили систему. 
-![im6](image/im6.png){#fig:001 width=70%}
+![im6](image/im6.png){#fig:006 width=70%}
 7. Удаление образа Fedora.
-![im7](image/im7.png){#fig:001 width=70%}
+![im7](image/im7.png){#fig:007 width=70%}
 8. Перезапуск системы. Начальный экран входа.
-![im8](image/im8.png){#fig:001 width=70%}
+![im8](image/im8.png){#fig:008 width=70%}
 9. Создание аккаунта.
-![im9](image/im9.png){#fig:001 width=70%}
+![im9](image/im9.png){#fig:009 width=70%}
 10. Настройка пароля аккаунта.
-![im10](image/im10.png){#fig:001 width=70%}
+![im10](image/im10.png){#fig:010 width=70%}
 11. Выполнение домашнего задания. Вывод версии ОС Линукс.
-![im11](image/im11.png){#fig:001 width=70%}
+![im11](image/im11.png){#fig:011 width=70%}
 12. Вывод информации о процессоре.
-![im12](image/im12.png){#fig:001 width=70%}
+![im12](image/im12.png){#fig:012 width=70%}
 13. Вывод модели процессора.
-![im13](image/im13.png){#fig:001 width=70%}
+![im13](image/im13.png){#fig:013 width=70%}
 14. Вывод оперативной памяти.
-![im14](image/im14.png){#fig:001 width=70%}
+![im14](image/im14.png){#fig:013 width=70%}
 15. Вывод последовательности монтирования файловых систем.
-![im15](image/im15.png){#fig:001 width=70%}
+![im15](image/im15.png){#fig:014 width=70%}
 
 
 # Выводы
